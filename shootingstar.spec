@@ -17,6 +17,8 @@ BuildRequires:	SDL_mixer-devel >= 1.2
 Requires:	OpenGL
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
+%define 	_noautoreqdep	libGL.so.1 libGLU.so.1
+
 %description
 Shooting Star is a 2D action game. The goal is to clear all levels of
 bad guys and make the World a better place.
