@@ -35,6 +35,7 @@ oczyszczenie wszystkich poziomów ze z³ych postaci i sprawienie by
 
 %build
 %configure
+cp -f /usr/share/automake/config.sub .
 %{__make}
 
 %install
