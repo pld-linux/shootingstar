@@ -6,6 +6,6 @@ Exec=shootingstar
 Icon=shootingstar.png
 Terminal=false
 Type=Application
-Categories=Application;Game;
+Categories=Game;ActionGame;
 Encoding=UTF-8
 # vi: encoding=utf-8
