@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Shooting Star
+Comment=Shooting game
+Comment[pl]=Strzelanka
+Exec=shootingstar
+Icon=shootingstar.png
+Terminal=false
+Type=Application
+Categories=Application;Game;
+Encoding=UTF-8
+# vi: encoding=utf-8
