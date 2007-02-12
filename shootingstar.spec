@@ -1,5 +1,5 @@
 Summary:	Shooting game
-Summary(pl.UTF-8):   Strzelanka
+Summary(pl.UTF-8):	Strzelanka
 Name:		shootingstar
 Version:	1.2.0
 Release:	3
