@@ -1,5 +1,5 @@
 Summary:	Shooting game
-Summary(pl):	Strzelanka
+Summary(pl.UTF-8):   Strzelanka
 Name:		shootingstar
 Version:	1.2.0
 Release:	3
@@ -25,10 +25,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Shooting Star is a 2D action game. The goal is to clear all levels of
 bad guys and make the World a better place.
 
-%description -l pl
-Shooting Star jest dwuwymiarow± gr± akcji, której celem jest
-oczyszczenie wszystkich poziomów ze z³ych postaci i sprawienie by
-¦wiat sta³ siê lepszym miejscem.
+%description -l pl.UTF-8
+Shooting Star jest dwuwymiarowÄ… grÄ… akcji, ktÃ³rej celem jest
+oczyszczenie wszystkich poziomÃ³w ze zÅ‚ych postaci i sprawienie by
+Åšwiat staÅ‚ siÄ™ lepszym miejscem.
 
 %prep
 %setup -q
